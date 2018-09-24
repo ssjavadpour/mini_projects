@@ -1,0 +1,19 @@
+#python is a scripting language, which means it will run everything from top to bottom
+#python is case sensitive
+#python comment <-
+
+#Here are naming conventions for Python identifiers :
+  -Class names start with an uppercase letter. All other identifiers start with a lowercase letter.
+  -Starting an identifier with a single leading underscore indicates that the identifier is private.
+  -Starting an identifier with two leading underscores indicates a strongly private identifier.
+  -If the identifier also ends with two trailing underscores, the identifier is a language-defined special name.
+
+#IDLE is just a shell with python running. Ctrl+C kills the process
+
+#python blocking is by index spacing. if you don't have your indices right, your program wont run right.
+
+#when running from Windows CMD (with python on PATH) : python script_file_name.py <input parameters>
+
+#when running from Linux :
+$chmod +x test.py     # This is to make file executable
+$./test.py
