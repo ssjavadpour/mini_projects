@@ -10,7 +10,7 @@
 
 #IDLE is just a shell with python running. Ctrl+C kills the process
 
-#python blocking is by index spacing. if you don't have your indices right, your program wont run right.
+#python blocking is by indentation. if you don't have your spacing right, your program wont run right.
 
 #when running from Windows CMD (with python on PATH) : python script_file_name.py <input parameters>
 
