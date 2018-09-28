@@ -24,4 +24,4 @@ for i in range(sheet.nrows):
     #if not, save to array along with the first name
     lname = sheet.cell_value(i,lname_col)
     if not (lname in hot_lst):
-        print(sheet.row_values(i))
+        print(sheet.row_values(i),"\n`")
