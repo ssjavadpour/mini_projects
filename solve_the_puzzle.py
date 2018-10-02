@@ -46,7 +46,8 @@ def rename_files() :
 #
 #     for file_name in file_list :
 #         #string.translate(table of character conversion mapping, characters to be removed)
-#         #i don't know if this is still valid in python 3.0?
+#         #string.translate() in Python 3 only takes a translate table (1 input)
+#         # a better option is string.istrip() ?
 #         new_name = file_name.translate("0123456789")
 #         print (file_name , " :: ", file_name.translate(None,b'0123456789'))
 #
