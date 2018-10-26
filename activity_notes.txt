@@ -1,0 +1,3 @@
+#10/25/18 :
+1-learning how to log git bash out of github saved credentials
+2-goal : git push to github!
