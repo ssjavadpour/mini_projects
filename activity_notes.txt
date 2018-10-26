@@ -1,3 +1,6 @@
 #10/25/18 :
 1-learning how to log git bash out of github saved credentials
 2-goal : git push to github!
+#10/26/18 :
+1- completed goal from yesterday
+2- //GOAL : add git-logout and customize to only clear local user.name and user.email
