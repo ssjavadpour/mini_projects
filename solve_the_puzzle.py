@@ -1,3 +1,5 @@
+#this code was written in Python 3
+
 #The Problem :
 # rename files in "Prank" folder by removing all digits in the file name
 #*****************************************************************************
