@@ -16,9 +16,13 @@
 # what are some of the edge cases of the question?
 
 import os
+import sys
 
 def rename_files() :
-    prank_home = os.getcwd()+"\\resources\\prank"
+    prank_home = os.getcwd()+"\\resources\\"
+    prank_folder = raw_input("Which folder?")
+    print(prank_folder)
+    prank_home = ("%s%s")% (prank_home,prank_folder)
     print(prank_home)
 
     os.chdir(prank_home)
